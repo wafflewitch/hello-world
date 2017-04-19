@@ -1,2 +1,4 @@
 # hello-world
-demo repository
+
+yo i'm wafflewitch
+i like waffles
